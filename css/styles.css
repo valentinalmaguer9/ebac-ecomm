@@ -155,4 +155,19 @@ footer {
   .payment .payment__order .payment__img {
     width: 100px;
   }
+}
+.social-media {
+  margin-top: 50px;
+}
+
+.social-media a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #000;
+}
+
+.social-media a img {
+  width: 40px;
+  height: 40px;
+  vertical-align: middle;
 }/*# sourceMappingURL=styles.css.map */
